@@ -1,0 +1,7 @@
+https://teamtreehouse.com/library/making-an-http-get-request-with-okhttp-2#video-transcript
+https://github.com/square/okhttp/blob/master/samples/guide/src/main/java/okhttp3/recipes/ParseResponseWithMoshi.java
+https://api.github.com/gists/c2a7c39532239ff261be
+https://stackoverflow.com/questions/5015844/parsing-json-object-in-java
+https://devqa.io/how-to-parse-json-in-java/
+http://pojo.sodhanalibrary.com/Convert
+https://pokeapi.co/
